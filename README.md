@@ -30,10 +30,9 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 
 | Tópico | Destaque | Conceitos Aplicados |
 | :--- | :--- | :--- |
-| **01. Membros Estáticos** | [`/conversor-de-moeda`](./conversor-de-moeda) | Métodos `static`, Constantes, `Math` utils. |
-| **02. POO Básica** | [`/retangulo`](./retangulo) | Classes, Instanciação, Métodos com retorno. |
-| **03. Encapsulamento** | *Em breve* | Construtores, Getters/Setters, Regras de Negócio. |
-| **04. Memória e Listas** | *Em breve* | ArrayList, Filtros, Laço for-each. |
+| **01. Membros Estáticos** | [`/Secao-08-Membros-Estaticos`](./Secao-08-Membros-Estaticos) | Métodos `static`, Constantes, `Math` utils. |
+| **02. Construtores** | *Em breve* | Encapsulamento, Sobrecarga e Palavra `this`. |
+| **03. Memória e Listas** | *Em breve* | ArrayList, Filtros, Laço for-each. |
 
 ---
 
