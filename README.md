@@ -11,12 +11,12 @@ Embora eu já atue com **Spring Boot** no desenvolvimento de APIs (3º Semestre 
 ---
 
 ## 🎯 Objetivos de Estudo (Jan/2026)
-O foco não é apenas sintaxe, mas sim boas práticas e design de código.
+O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória e design de código.
 
 - [x] **Introdução à POO:** Classes, Atributos, Métodos e Membros Estáticos.
-- [ ] **Construtores & Encapsulamento:** Sobrecarga, Palavra `this`, Javabeans.
-- [ ] **Comportamento de Memória:** Stack vs Heap, Garbage Collection, Boxing/Unboxing.
-- [ ] **Listas e Matrizes:** Manipulação de coleções sem banco de dados.
+- [x] **Construtores & Encapsulamento:** Sobrecarga, Palavra `this`, Javabeans.
+- [ ] **Comportamento de Memória (Em andamento):** Stack vs Heap, Vetores de Objetos, Garbage Collection.
+- [ ] **Listas e Matrizes:** Manipulação de coleções dinâmicas.
 - [ ] **Enumerações e Composição:** Modelagem de objetos complexos (ex: Pedido -> Itens -> Produto).
 - [ ] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
 - [ ] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
@@ -26,20 +26,20 @@ O foco não é apenas sintaxe, mas sim boas práticas e design de código.
 
 ## 📂 Estrutura do Repositório
 
-Os exercícios estão organizados por tópicos para facilitar a consulta e revisão de conceitos.
+Os exercícios estão organizados por tópicos para facilitar a consulta e revisão de conceitos fundamentais.
 
 | Tópico | Destaque | Conceitos Aplicados |
 | :--- | :--- | :--- |
 | **01. Membros Estáticos** | [`/Secao-08-Membros-Estaticos`](./Secao-08-Membros-Estaticos) | Métodos `static`, Constantes, `Math` utils. |
-| **02. Construtores** | *Em breve* | Encapsulamento, Sobrecarga e Palavra `this`. |
-| **03. Memória e Listas** | *Em breve* | ArrayList, Filtros, Laço for-each. |
+| **02. Construtores** | [`/Secao-09-Construtores`](./Secao-09-Construtores) | Encapsulamento, Sobrecarga e Palavra `this`. |
+| **03. Memória e Vetores** | [`/Secao-10-Memoria-Vetores`](./Secao-10-Memoria-Vetores) | **Desafio do Pensionato**, Vetores de Objetos, Tratamento de `null`. |
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem:** Java 21 (LTS)
-* **IDE:** IntelliJ IDEA / Eclipse
+* **IDE:** IntelliJ IDEA
 * **Controle de Versão:** Git & GitHub
 * **Foco Futuro:** Arquitetura de Microsserviços com Spring Boot
 
