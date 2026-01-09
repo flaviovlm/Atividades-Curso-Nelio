@@ -34,7 +34,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **01. Membros Estáticos** | [`/Secao-08-Membros-Estaticos`](./Secao-08-Membros-Estaticos) | Métodos `static`, Constantes, `Math` utils. |
 | **02. Construtores** | [`/Secao-09-Construtores`](./Secao-09-Construtores) | Encapsulamento, Sobrecarga e Palavra `this`. |
 | **03. Memória e Vetores** | [`/Secao-10-Memoria-Vetores`](./Secao-10-Memoria-Vetores) | **Desafio do Pensionato**, Vetores de Objetos, Tratamento de `null`. |
-| **04. Listas e Streams** | [`/Secao-10-Lista`](./Secao-10-Lista) | **Aumento Salarial**, Interface `List`, Predicados (Lambda) e Stream API. |
+| **04. Listas e Streams** | [`/Secao-10-Listas`](./Secao-10-Lista) | **Aumento Salarial**, Interface `List`, Predicados (Lambda) e Stream API. |
 
 ---
 
