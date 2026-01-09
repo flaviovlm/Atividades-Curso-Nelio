@@ -15,12 +15,13 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 
 - [x] **Introdução à POO:** Classes, Atributos, Métodos e Membros Estáticos.
 - [x] **Construtores & Encapsulamento:** Sobrecarga, Palavra `this`, Javabeans.
-- [ ] **Comportamento de Memória (Em andamento):** Stack vs Heap, Vetores de Objetos, Garbage Collection.
-- [ ] **Listas e Matrizes:** Manipulação de coleções dinâmicas.
+- [x] **Comportamento de Memória:** Stack vs Heap, Vetores de Objetos, Garbage Collection.
+- [x] **Listas e Fluxos:** Interface List, ArrayList e introdução a Streams.
+- [ ] **Matrizes:** Manipulação de arrays bidimensionais.
 - [ ] **Enumerações e Composição:** Modelagem de objetos complexos (ex: Pedido -> Itens -> Produto).
 - [ ] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
 - [ ] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
-- [ ] **Java Moderno:** Interfaces, Generics, Set/Map e Expressões Lambda.
+- [ ] **Java Moderno (Avançado):** Interfaces, Generics, Set/Map.
 
 ---
 
@@ -33,6 +34,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **01. Membros Estáticos** | [`/Secao-08-Membros-Estaticos`](./Secao-08-Membros-Estaticos) | Métodos `static`, Constantes, `Math` utils. |
 | **02. Construtores** | [`/Secao-09-Construtores`](./Secao-09-Construtores) | Encapsulamento, Sobrecarga e Palavra `this`. |
 | **03. Memória e Vetores** | [`/Secao-10-Memoria-Vetores`](./Secao-10-Memoria-Vetores) | **Desafio do Pensionato**, Vetores de Objetos, Tratamento de `null`. |
+| **04. Listas e Streams** | [`/Secao-10-Lista`](./Secao-10-Lista) | **Aumento Salarial**, Interface `List`, Predicados (Lambda) e Stream API. |
 
 ---
 
