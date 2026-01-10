@@ -17,7 +17,6 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 - [x] **Construtores & Encapsulamento:** Sobrecarga, Palavra `this`, Javabeans.
 - [x] **Comportamento de Memória:** Stack vs Heap, Vetores de Objetos, Garbage Collection.
 - [x] **Listas e Fluxos:** Interface List, ArrayList e introdução a Streams.
-- [ ] **Matrizes:** Manipulação de arrays bidimensionais.
 - [ ] **Enumerações e Composição:** Modelagem de objetos complexos (ex: Pedido -> Itens -> Produto).
 - [ ] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
 - [ ] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
