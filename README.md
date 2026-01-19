@@ -18,7 +18,7 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 - [x] **Comportamento de Memória:** Stack vs Heap, Vetores de Objetos, Garbage Collection.
 - [x] **Listas e Fluxos:** Interface List, ArrayList e introdução a Streams.
 - [x] **Enumerações e Composição:** Modelagem de objetos complexos (ex: Pedido -> Itens -> Produto).
-- [ ] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
+- [x] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
 - [ ] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
 - [ ] **Java Moderno (Avançado):** Interfaces, Generics, Set/Map.
 
@@ -35,6 +35,8 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **03. Memória e Vetores** | [`/Secao-10-Memoria-Vetores`](./Secao-10-Memoria-Vetores) | **Desafio do Pensionato**, Vetores de Objetos, Tratamento de `null`. |
 | **04. Listas e Streams** | [`/Secao-10-Listas`](./Secao-10-Listas) | **Aumento Salarial**, Interface `List`, Predicados (Lambda) e Stream API. |
 | **05. Enumerações e Composição** | [`/Secao-12-Enumeracoes`](./Secao-12-Enumeracoes) | **Order Summary**, StringBuilder, Enums, Design de Classes (1:N). |
+| **06. Herança e Polimorfismo** | [`/Secao-13-Heranca-Polimorfismo`](./Secao-13-Heranca-Polimorfismo) | **Price Tags**, `extends`, `super`, `@Override`, Polimorfismo. |
+| **07. Classes Abstratas** | [`/Secao-13-Classe-Metodos-Abstratos`](./Secao-13-Classe-Metodos-Abstratos) | **Tax Payer System**, Classes e Métodos Abstratos, Lógica de Negócio Polimórfica. |
 
 ---
 
