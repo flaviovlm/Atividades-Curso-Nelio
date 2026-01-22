@@ -19,7 +19,7 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 - [x] **Listas e Fluxos:** Interface List, ArrayList e introdução a Streams.
 - [x] **Enumerações e Composição:** Modelagem de objetos complexos (ex: Pedido -> Itens -> Produto).
 - [x] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
-- [ ] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
+- [x] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
 - [ ] **Java Moderno (Avançado):** Interfaces, Generics, Set/Map.
 
 ---
@@ -37,6 +37,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **05. Enumerações e Composição** | [`/Secao-12-Enumeracoes`](./Secao-12-Enumeracoes) | **Order Summary**, StringBuilder, Enums, Design de Classes (1:N). |
 | **06. Herança e Polimorfismo** | [`/Secao-13-Heranca-Polimorfismo`](./Secao-13-Heranca-Polimorfismo) | **Price Tags**, `extends`, `super`, `@Override`, Polimorfismo. |
 | **07. Classes Abstratas** | [`/Secao-13-Classe-Metodos-Abstratos`](./Secao-13-Classe-Metodos-Abstratos) | **Tax Payer System**, Classes e Métodos Abstratos, Lógica de Negócio Polimórfica. |
+| **08. Tratamento de Exceções** | [`/Secao-14-Tratamento-Excecoes`](./Secao-14-Tratamento-Excecoes) | **Bank Account**, `try-catch`, Custom Exceptions, `RuntimeException`. |
 
 ---
 
