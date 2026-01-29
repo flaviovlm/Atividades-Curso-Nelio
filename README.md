@@ -20,7 +20,8 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 - [x] **Enumerações e Composição:** Modelagem de objetos complexos (ex: Pedido -> Itens -> Produto).
 - [x] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
 - [x] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
-- [ ] **Java Moderno (Avançado):** Interfaces, Generics, Set/Map.
+- [x] **Interfaces:** Injeção de Dependência, Inversão de Controle e Strategy Pattern.
+- [ ] **Generics, Set e Map:** Tipos genéricos e coleções Hash/Tree.
 
 ---
 
@@ -38,6 +39,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **06. Herança e Polimorfismo** | [`/Secao-13-Heranca-Polimorfismo`](./Secao-13-Heranca-Polimorfismo) | **Price Tags**, `extends`, `super`, `@Override`, Polimorfismo. |
 | **07. Classes Abstratas** | [`/Secao-13-Classe-Metodos-Abstratos`](./Secao-13-Classe-Metodos-Abstratos) | **Tax Payer System**, Classes e Métodos Abstratos, Lógica de Negócio Polimórfica. |
 | **08. Tratamento de Exceções** | [`/Secao-14-Tratamento-Excecoes`](./Secao-14-Tratamento-Excecoes) | **Bank Account**, `try-catch`, Custom Exceptions, `RuntimeException`. |
+| **09. Interfaces** | [`/Secao-16-interfaces`](./Secao-16-interfaces) | **Contract Service**, Injeção de Dependência, Baixo Acoplamento, Interface vs Classe Concreta. |
 
 ---
 
