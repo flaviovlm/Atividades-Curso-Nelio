@@ -1,4 +1,4 @@
-# ☕ Formação Java Completo & Programação Orientada a Objetos
+# Formação Java Completo & Programação Orientada a Objetos
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -10,7 +10,7 @@ Embora eu já atue com **Spring Boot** no desenvolvimento de APIs (3º Semestre 
 
 ---
 
-## 🎯 Objetivos de Estudo (Jan/2026)
+## Objetivos de Estudo (Jan/2026)
 O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória e design de código.
 
 - [x] **Introdução à POO:** Classes, Atributos, Métodos e Membros Estáticos.
@@ -25,7 +25,7 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 Os exercícios estão organizados por tópicos para facilitar a consulta e revisão de conceitos fundamentais.
 
@@ -43,7 +43,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem:** Java 21 (LTS)
 * **IDE:** IntelliJ IDEA
@@ -52,7 +52,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 
 ---
 
-## 📝 Como executar
+## Como executar
 Para rodar qualquer projeto deste repositório:
 
 1. Clone o repositório:
