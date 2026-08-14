@@ -41,7 +41,7 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **07. Classes Abstratas** | [`/Secao-13-Classe-Metodos-Abstratos`](./Secao-13-Classe-Metodos-Abstratos) | **Tax Payer System**, Classes e Métodos Abstratos, Lógica de Negócio Polimórfica. |
 | **08. Tratamento de Exceções** | [`/Secao-14-Tratamento-Excecoes`](./Secao-14-Tratamento-Excecoes) | **Bank Account**, `try-catch`, Custom Exceptions, `RuntimeException`. |
 | **09. Interfaces** | [`/Secao-16-interfaces`](./Secao-16-interfaces) | **Contract Service**, Injeção de Dependência, Baixo Acoplamento, Interface vs Classe Concreta. |
-| **10. Generics e Set** | [`/Secao-18-Generics-Set`](./Secao-17-Set-Generics) | **Contador de Alunos**, Interface `Set`, `HashSet`, União de Conjuntos (`addAll`), `hashCode` & `equals`. |
+| **10. Generics e Set** | [`/Secao-17-Set-Generics`](./Secao-17-Set-Generics) | **Contador de Alunos**, Interface `Set`, `HashSet`, União de Conjuntos (`addAll`), `hashCode` & `equals`. |
 | **11. Map** | [`/Secao-18-Map`](./Secao-18-Map) | Estrutura Chave/Valor, `HashMap`, `TreeMap`, busca eficiente e ordenação de chaves. |
 
 ---
