@@ -6,7 +6,7 @@
 
 Este repositório documenta minha jornada de aprofundamento no **Core do Java**, seguindo o curso do professor Nélio Alves.
 
-Embora eu já atue com **Spring Boot** no desenvolvimento de APIs (3º Semestre - Desenvolvimento de Sistemas), o objetivo deste estudo é fortalecer os conceitos de **Engenharia de Software**, **Gerenciamento de Memória** e **Arquitetura de Objetos** que rodam "por baixo do capô" dos frameworks modernos.
+Embora eu já atue com **Spring Boot** no desenvolvimento de APIs, o objetivo deste estudo é fortalecer os conceitos de **Engenharia de Software**, **Gerenciamento de Memória** e **Arquitetura de Objetos** que rodam "por baixo do capô" dos frameworks modernos.
 
 ---
 
@@ -21,7 +21,8 @@ O foco não é apenas sintaxe, mas sim boas práticas, manipulação de memória
 - [x] **Herança e Polimorfismo:** Classes Abstratas e Métodos Abstratos.
 - [x] **Tratamento de Exceções:** Try, Catch, Finally e Exceções Personalizadas.
 - [x] **Interfaces:** Injeção de Dependência, Inversão de Controle e Strategy Pattern.
-- [ ] **Generics, Set e Map:** Tipos genéricos e coleções Hash/Tree.
+- [x] **Generics e Set:** Tipos genéricos, Coleções Hash/Tree e Operações de Conjuntos.
+- [ ] **Map:** Estrutura Chave/Valor, manipulação de pares e implementações (`HashMap`, `TreeMap`).
 
 ---
 
@@ -40,6 +41,8 @@ Os exercícios estão organizados por tópicos para facilitar a consulta e revis
 | **07. Classes Abstratas** | [`/Secao-13-Classe-Metodos-Abstratos`](./Secao-13-Classe-Metodos-Abstratos) | **Tax Payer System**, Classes e Métodos Abstratos, Lógica de Negócio Polimórfica. |
 | **08. Tratamento de Exceções** | [`/Secao-14-Tratamento-Excecoes`](./Secao-14-Tratamento-Excecoes) | **Bank Account**, `try-catch`, Custom Exceptions, `RuntimeException`. |
 | **09. Interfaces** | [`/Secao-16-interfaces`](./Secao-16-interfaces) | **Contract Service**, Injeção de Dependência, Baixo Acoplamento, Interface vs Classe Concreta. |
+| **10. Generics e Set** | [`/Secao-18-Generics-Set`](./Secao-18-Generics-Set) | **Contador de Alunos**, Interface `Set`, `HashSet`, União de Conjuntos (`addAll`), `hashCode` & `equals`. |
+| **11. Map** | [`/Secao-18-Map`](./Secao-18-Map) | Estrutura Chave/Valor, `HashMap`, `TreeMap`, busca eficiente e ordenação de chaves. |
 
 ---
 
